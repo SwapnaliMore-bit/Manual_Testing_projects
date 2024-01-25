@@ -1,3 +1,3 @@
 # Manual_Testing_projects
-this is my manual testing projects
+This is my manual testing project.
 Author-Swapnali more
